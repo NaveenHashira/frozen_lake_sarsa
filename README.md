@@ -12,7 +12,7 @@ The FrozenLake environment features:
   - **Slippery**: Stochastic transitions (33% chance of moving sideways) 🧊
   - **Non-slippery**: Deterministic transitions 🧊✅
 
-![Frozen Lake Environment](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gymlibrary.dev%2Fenvironments%2Ftoy_text%2Ffrozen_lake%2F&psig=AOvVaw3bdDKmI3dorWIf8zGw-mYV&ust=1750838946511000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID5t7_NiY4DFQAAAAAdAAAAABAE)
+![Frozen Lake Environment](images/frozen%20lake.jpg)
 
 ## ⚙️ Implementation Details
 - **Algorithm**: SARSA (on-policy TD control) 🧠
